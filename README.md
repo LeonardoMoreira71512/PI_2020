@@ -1,4 +1,4 @@
 # PI_2020
-Imperative Programming using C language
+Some programs made in Imperative Programming class using C language
 
 
